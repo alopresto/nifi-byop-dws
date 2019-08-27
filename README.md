@@ -1,0 +1,1 @@
+This project contains sample code for a custom [Apache NiFi](https://nifi.apache.org) ([GitHub](https://github.com/apache/nifi)) processor as referenced in the presentation _BYOP: Custom Processor Development with Apache NiFi_ from DataWorks Summit Barcelona 2019.  
